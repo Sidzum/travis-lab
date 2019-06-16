@@ -1,5 +1,5 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
-name = input("Как Вас зовут? ")
-print("Привет,", name)
+name = input("What is your name? ")
+print("Hello,", name)
